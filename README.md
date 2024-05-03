@@ -138,3 +138,4 @@ This is a repo which i was following " Interview Happy" (https://www.youtube.com
 
 # Q10 - What is the diffferent between "null" and "undefined" in JS?
 
+![alt text](image-5.png)
