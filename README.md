@@ -115,7 +115,7 @@ This is a repo which i was following " Interview Happy" (https://www.youtube.com
     JS by default you dont specify the  data type of the variable that you assigned , it will automatically assingthe type by itself based on the value that you entered. So you dont write thetype explicitly.
 
     Still there are 2 types of variable found in JS..
-    ![alt text](image-1.png)
+    ![alt text](image-2.png)
 
     Primitive - Can be sotred/hold only one and single value
     Non-Primitive - can be stored/hold multiple values
