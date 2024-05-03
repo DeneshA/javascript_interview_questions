@@ -27,3 +27,14 @@ This is a repo which i was following " Interview Happy" (https://www.youtube.com
             let blockVariable = "block"
         }
     }
+
+# Q4 - What is the type of a variable  in JS when it is dec;alared without using the  var, let, or const keyword ?
+
+    eg: code snipet
+    if(true) {
+        variable =10
+    }
+    console.log(variable)
+    what is the output ? or will it provide any out put ?
+
+    
