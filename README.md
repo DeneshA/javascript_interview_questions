@@ -139,3 +139,45 @@ This is a repo which i was following " Interview Happy" (https://www.youtube.com
 # Q10 - What is the diffferent between "null" and "undefined" in JS?
 
 ![alt text](image-5.png)
+
+Undifined : when a variable is declared but has not been assigned a vlaue, it is automatically initialized with undefined.
+
+When to use : undefined can be used when you don't have the value right now, but you will get it after some logic or operation.
+
+Eg: 
+let udefinedVariable
+console.log(unddefinedVariable)
+//Output : undefined
+
+Null : null variable are intentionally assigned the null value.
+
+When to use : null can be used, when you sure you do not have any value for the particular variable.
+
+Eg:
+let nullVariable = null //null assigned
+console.log(nullVariable)
+//Output : null
+
+# Q11 - What is the use of "typeof" operator?
+
+    typeof operator is used to determine the type of each variable.
+
+    Real application use : typeOf operator can be used to validate the data received from external  soruces(api).
+
+![alt text](image-6.png)
+
+# Q12 - What is type coercion
+
+    Type coercion is the automatic conversion of values from one data type to another during certain oerations or comparisons.
+    
+    use of type coercion : 
+    Type coercion can be used during String and Number concatenation.
+
+    Type coercion can be used while using Comparison operators.
+
+![alt text](image-9.png)
+
+
+
+![alt text](image-8.png)
+
