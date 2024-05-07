@@ -33,7 +33,7 @@ This is a repo which i was following " Interview Happy" (https://www.youtube.com
 
     eg: code snipet
     if(true) {
-        variable =10
+        variable = 10
     }
     console.log(variable)
     what is the output ? or will it provide any out put ?
@@ -101,7 +101,7 @@ This is a repo which i was following " Interview Happy" (https://www.youtube.com
 
     }
 
-    Note : "const" cretae a block-scoped variable behave same as let but  is can be assigned only once, and its value cannot be changed afterwards.
+    Note : "const" create a block-scoped variable behave same as let but  is can be assigned only once, and its value cannot be changed afterwards.
 
     Eg: 
     // Using constant
@@ -112,7 +112,7 @@ This is a repo which i was following " Interview Happy" (https://www.youtube.com
 
 # Q8 - What are data types in JS?
 
-    A datatype will determine the type of a variable . JS by default you dont specify the  data type of the variable that you assigned , it will automatically assingthe type by itself based on the value that you entered. So you dont write thetype explicitly.
+    A datatype will determine the type of a variable . JS by default you don't specify the  data type of the variable that you assigned , it will automatically assing the type by itself based on the value that you entered. So you don't write thetype explicitly.
 
     Still there are 2 types of variable found in JS..
 ![alt text](image-3.png)
@@ -134,7 +134,7 @@ This is a repo which i was following " Interview Happy" (https://www.youtube.com
     Non-Primitive - NDT
 
     - This type can only hold multiple value.
-    - These are mmutable, meaning their values can be chnaged 
+    - These are mutable, meaning their values can be chnaged 
 
 # Q10 - What is the diffferent between "null" and "undefined" in JS?
 
@@ -177,7 +177,31 @@ console.log(nullVariable)
 
 ![alt text](image-9.png)
 
+# Chapter 3 : Operators & Conditions
+
+# Q13 - What are operators ? What are the types of operators in JS?
+    
+    Simply it follows BODMAS rules.As per operator precedence, operators with higher are evaluated first.
+
+![alt text](image-10.png)
+![alt text](image-11.png)
 
 
-![alt text](image-8.png)
+# Q14 - What is the difference between unary,binary, and tenary operators?
 
+![alt text](image-12.png)
+
+
+# Q15 - What is short-circuit evaluation in JS?
+
+Short-circuit evaluation stop the execution as soon as the result can be determined without evaluating the remaining sub-expressions.
+
+![alt text](image-13.png)
+
+# Q16 - What is operator precedence?
+
+# Q17 - What are the types od conditions statement in rel applications?
+
+# Q18 - What is the different between "==" and '===" ?
+
+# Q19 - What is the different between Spread and Rest operator in JS?
